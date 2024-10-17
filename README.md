@@ -43,4 +43,4 @@ Pour 2 User Stories de votre choix, détaillez les critères d'acceptance (minim
 1. Avant 17h00, envoyez votre document de travail au format PDF à l'adresse <hello@agiliteach.org>
 2. Vous avez le droit de collaborer, mais vos contenus doivent être uniques et indépendants
 3. Utiliser les ressources à votre disposition et sur internet
-4. C'est un travail de réflexion, l'usage de l'IA ne sera qu'un frein à vos réflexions et apprentissages
+4. C'est un travail de réflexion, l'usage de l'IA ne sera qu'un frein à votre apprentissage
